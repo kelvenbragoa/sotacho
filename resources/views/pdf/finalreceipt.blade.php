@@ -59,7 +59,7 @@
 </head>
 <body>
     <div class="header">
-        <h1>LIV BEIRA</h1>
+        <h1>SOTACHO BEIRA</h1>
         <p>Maquinino,Beira</p>
         <p>Telefone: +258 84 000 000</p>
     </div>

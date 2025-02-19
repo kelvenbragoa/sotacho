@@ -100,7 +100,7 @@ onBeforeMount(() => {
                                 />
                             </g>
                         </svg>
-                        <div class="text-surface-900 dark:text-surface-0 text-3xl font-medium mb-4">Liv Beira</div>
+                        <div class="text-surface-900 dark:text-surface-0 text-3xl font-medium mb-4">SoTacho Beira</div>
                         <span class="text-muted-color font-medium">Entre para continuar</span>
                         <div v-if="errorMessage">
                             <Button :label="errorMessage" class="mr-2" severity="danger" />

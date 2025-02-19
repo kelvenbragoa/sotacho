@@ -48,7 +48,7 @@ const { toggleMenu, toggleDarkMode, isDarkTheme } = useLayout();
                     </g>
                 </svg>
 
-                <span>Liv</span>
+                <span>SoTacho</span>
             </router-link>
         </div>
 

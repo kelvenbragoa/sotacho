@@ -77,7 +77,7 @@
     <table width="100%">
         <tr>
             <td align="left" style="width: 40%;">
-                <p><strong> Liv Beira</strong></p>
+                <p><strong> SoTacho Beira</strong></p>
                 {{-- <p>{{$event->name}}</p>
                 <p>{{$event->user->name}}</p>
                 <p>{{$event->user->email}}</p> --}}
@@ -85,13 +85,13 @@
 
             </td>
             <td align="center">
-                <img src="https://liv.mtaxas.co.mz/image/liv.png" alt="Logo" width="256" class="logo"/>
+                <img src="https://stacho.mtaxas.co.mz/image/liv.png" alt="Logo" width="256" class="logo"/>
             </td> 
             <td align="right" style="width: 40%;">
                 
-                <h3>Liv Beira</h3>
+                <h3>SoTacho Beira</h3>
                 
-                   <p> https://liv.mtaxas.co.mz</p>
+                   <p> https://stacho.mtaxas.co.mz</p>
                    <p> +258 84 000 0000</p>
                     <p> Beira, Mozambique</p>
                

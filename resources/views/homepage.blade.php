@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Liv Beira</title>
+  <title>SoTacho Beira</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
 
@@ -45,7 +45,7 @@
     <div class="topbar d-flex align-items-center">
       <div class="container d-flex justify-content-center justify-content-md-between">
         <div class="contact-info d-flex align-items-center">
-          <i class="bi bi-envelope d-flex align-items-center"><a href="mailto:contact@example.com">Livbeira@gmail.com</a></i>
+          <i class="bi bi-envelope d-flex align-items-center"><a href="mailto:contact@example.com">SoTachobeira@gmail.com</a></i>
           <i class="bi bi-phone d-flex align-items-center ms-4"><span>+258 841 588 586</span></i>
         </div>
        <!-- <div class="languages d-none d-md-flex align-items-center">
@@ -274,7 +274,7 @@
           <div class="col-lg-3">
             <ul class="nav nav-tabs flex-column">
               <li class="nav-item">
-                <a class="nav-link active show" data-bs-toggle="tab" href="#specials-tab-1">Bife ao Liv</a>
+                <a class="nav-link active show" data-bs-toggle="tab" href="#specials-tab-1">Bife ao SoTacho</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#specials-tab-2">Camarão</a>
@@ -391,7 +391,7 @@
                   <img src="{{asset('template/assets/img/events-slider/events-slider-1.jpg')}}" class="img-fluid" alt="">
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 content">
-                  <h3>Liv Saturdays</h3>
+                  <h3>SoTacho Saturdays</h3>
                   <div class="price">
                     <p><span>1000 MT</span></p>
                   </div>
@@ -417,7 +417,7 @@
                   <img src="{{asset('template/assets/img/events-slider/events-slider-2.jpg')}}" class="img-fluid" alt="">
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 content">
-                  <h3>Liv Fridays</h3>
+                  <h3>SoTacho Fridays</h3>
                   <div class="price">
                     <p><span>1000 MT</span></p>
                   </div>
@@ -652,7 +652,7 @@
               <i class="bi bi-envelope flex-shrink-0"></i>
               <div>
                 <h3>Email </h3>
-                <p>Livbeira@gmail.com</p>
+                <p>SoTacho@gmail.com</p>
               </div>
             </div><!-- End Info Item -->
 
@@ -704,13 +704,13 @@
       <div class="row gy-4">
         <div class="col-lg-4 col-md-6 footer-about">
           <a href="index.html" class="logo d-flex align-items-center">
-            <span class="sitename">Liv Beira</span>
+            <span class="sitename">SoTacho Beira</span>
           </a>
           <div class="footer-contact pt-3">
             <p>Beira -  Maquinino</p>
             <p>Parque das infraestruturas Verdes</p>
             <p class="mt-3"><strong>Phone:</strong> <span>+258 841 588 586</span></p>
-            <p><strong>Email:</strong> <span>Livbeira@gmail.com</span></p>
+            <p><strong>Email:</strong> <span>SoTacho@gmail.com</span></p>
           </div>
           <div class="social-links d-flex mt-4">
             <a href=""><i class="bi bi-twitter-x"></i></a>
@@ -739,7 +739,7 @@
     </div>
 
     <div class="container copyright text-center mt-4">
-      <p>© <span>Copyright</span> <strong class="px-1 sitename">Livbeira</strong> <span>All Rights Reserved</span></p>
+      <p>© <span>Copyright</span> <strong class="px-1 sitename">SoTacho</strong> <span>All Rights Reserved</span></p>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you've purchased the pro version. -->

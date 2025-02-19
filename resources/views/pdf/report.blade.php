@@ -67,13 +67,13 @@
     <div class="header">
         <table class="info-table">
             <tr>
-                <td align="left" style="width: 40%; font-weight: bold;">Liv Beira</td>
+                <td align="left" style="width: 40%; font-weight: bold;">SoTacho Beira</td>
                 <td align="center">
-                    <img src="https://liv.mtaxas.co.mz/image/liv.png" alt="Logo" class="logo"/>
+                    <img src="https://stacho.mtaxas.co.mz/image/liv.png" alt="Logo" class="logo"/>
                 </td>
                 <td align="right" style="width: 40%;">
-                    <strong>Liv Beira</strong><br>
-                    <a href="https://liv.mtaxas.co.mz" style="color:white;">liv.mtaxas.co.mz</a><br>
+                    <strong>SoTacho Beira</strong><br>
+                    <a href="https://stacho.mtaxas.co.mz" style="color:white;">stacho.mtaxas.co.mz</a><br>
                     +258 84 000 0000<br>
                     Beira, Mozambique
                 </td>

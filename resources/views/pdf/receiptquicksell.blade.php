@@ -69,7 +69,7 @@
     <div class="recibo">
         @if($kitchenItems->isNotEmpty())
         <div class="header">
-            <h1>LIV BEIRA</h1>
+            <h1>SOTACHO BEIRA</h1>
             <p>Maquinino, Beira</p>
             <p>Telefone: +258 84 000 000</p>
         </div>
@@ -120,7 +120,7 @@
 
         @if($barItems->isNotEmpty())
         <div class="header">
-            <h1>LIV BEIRA</h1>
+            <h1>SOTACHO BEIRA</h1>
             <p>Maquinino, Beira</p>
             <p>Telefone: +258 84 000 000</p>
             <p>Departamento: Bar</p>
