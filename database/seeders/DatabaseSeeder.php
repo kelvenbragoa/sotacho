@@ -21,17 +21,17 @@ class DatabaseSeeder extends Seeder
         //     'email' => 'test@example.com',
         // ]);
         // $this->call(ProductTableSeeder::class);
-        // $this->call(DepartmentTableSeeder::class);
-        // $this->call(CategoriesTableSeeder::class);
-        // $this->call(UserTableSeeder::class);
-        // $this->call(OrderStatusTableSeeder::class);
-        // $this->call(PaymentMethodTableSeeder::class);
-        // $this->call(ReservationStatusTableSeeder::class);
-        // $this->call(RoleTableSeeder::class);
-        // $this->call(TablesTableSeeder::class);
-        // $this->call(TableStatusTableSeeder::class);
-        // $this->call(OrderItemStatusTableSeeder::class);
-        // $this->call(StatusTableSeeder::class);
+        $this->call(DepartmentTableSeeder::class);
+        $this->call(CategoriesTableSeeder::class);
+        $this->call(UserTableSeeder::class);
+        $this->call(OrderStatusTableSeeder::class);
+        $this->call(PaymentMethodTableSeeder::class);
+        $this->call(ReservationStatusTableSeeder::class);
+        $this->call(RoleTableSeeder::class);
+        $this->call(TablesTableSeeder::class);
+        $this->call(TableStatusTableSeeder::class);
+        $this->call(OrderItemStatusTableSeeder::class);
+        $this->call(StatusTableSeeder::class);
         $this->call(CashRegisterTableSeeder::class);
 
 
