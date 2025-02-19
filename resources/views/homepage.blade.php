@@ -61,7 +61,7 @@
       <div class="container position-relative d-flex align-items-center justify-content-between">
         <a href="index.html" class="logo d-flex align-items-center me-auto me-xl-0">
           <!-- Uncomment the line below if you also wish to use an image logo -->
-          <h1 class="sitename">LIV BEIRA</h1>
+          <h1 class="sitename">SoTacho BEIRA</h1>
         </a>
         <nav id="navmenu" class="navmenu">
           <ul>
@@ -129,7 +129,7 @@
               <li><i class="bi bi-check2-all"></i> <span>Musica e Comida Boa em um so Lugar!</span></li>
             </ul>
             <p>
-              Venha nós visitar, dias especias Quintas-Feiras, Sextas e Sabados com o LIV SATURDAYS
+              Venha nós visitar, dias especias Quintas-Feiras, Sextas e Sabados com o SoTacho SATURDAYS
             </p>
           </div>
         </div>
